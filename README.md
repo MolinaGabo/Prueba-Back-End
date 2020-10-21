@@ -18,7 +18,8 @@ Instrucciones de ejecución
 	con la cual quedará corriendo el microservicio
 	
 	** La url local es : localhost:8080/users/2
-						localhost:8080/users/
+	** La url local es : localhost:8080/users/
+	** La url local es : localhost:8080/registro/
 	
 4. abrir la carpeta "front" en en entorno de desarrollo o en la consola y correr la instrucción "npm install"
 	con la cual se instalarán los archivos faltantes( en caso de existir) par correr angular de manera local.
